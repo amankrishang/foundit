@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028868812674",
+    "project_id": "founditbyaman",
+    "storage_bucket": "founditbyaman.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028868812674:android:e4a5437b106c4b0112299b",
+        "android_client_info": {
+          "package_name": "com.example.foundit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATSLwWxUSecHqRccF0Y_dBqjjljymvOTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
